@@ -1,7 +1,7 @@
 # us-vehicles
 # Análise dos dados da revenda de veículos usados nos EUA (2018-2019)
 
-Este projeto explora a análise de um conjunto de dados de veículos usados nos Estados Unidos a partir da geração de histogramas e gráficos de dispersão das seguintes variáveis presentes na base de dados: Preço, Milhagem, Marca, Ano do carro, Condição, tipo de combustível, número de cilindros, tração, transmissão e categoria do automóvel. A aplicação foi desenvolvida com **Python**, **Pandas**, **Plotly Express** e **Streamlit**, e está hospedada para testes no Render, conforme link: 
+Este projeto explora a análise de um conjunto de dados de veículos usados nos Estados Unidos a partir da geração de histogramas e gráficos de dispersão das seguintes variáveis presentes na base de dados: Preço, Milhagem, Marca, Ano do carro, Condição, tipo de combustível, número de cilindros, tração, transmissão e categoria do automóvel. A aplicação foi desenvolvida com **Python**, **Pandas**, **Plotly Express** e **Streamlit**, e está hospedada para testes no Render, conforme link: https://us-vehicles.onrender.com/
 
 ## Estrutura do Projeto:
 
